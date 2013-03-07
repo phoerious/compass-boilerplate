@@ -10,5 +10,5 @@ html {
 
 // Susy column grid (example)
 body {
-    @include susy-background-grid();
+    @include susy-grid-background();
 }
